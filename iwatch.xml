@@ -1,0 +1,1 @@
+<path type="recursive" events="close_write" syslog="off" alert="off" exec="/usr/local/sbin/git-drop.py %f %e">/home/test/dropbox</path>
